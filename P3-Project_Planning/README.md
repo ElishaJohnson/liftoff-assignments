@@ -22,3 +22,4 @@ https://trello.com/b/reqWjeb2/capstone-project
 ### Project Repo Link
 
 Include a link to your project on GitHub.
+https://github.com/ElishaJohnson/yumz
